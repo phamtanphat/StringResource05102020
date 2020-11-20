@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">StringResource05102020</string>
     <string name="text_title">Login System</string>
     <string name="hint_tai_khoan">Account</string>
     <string name="hint_mat_khau">Password</string>
-    <string name="text_login" >Login</string>
+    <string name="text_login">Login</string>
 </resources>

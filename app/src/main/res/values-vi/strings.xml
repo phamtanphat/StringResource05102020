@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StringResource05102020</string>
+    <string name="text_title">" Đăng nhập hệ thống"</string>
+    <string name="hint_tai_khoan">Tài khoản</string>
+    <string name="hint_mat_khau">Mật khẩu</string>
+    <string name="text_login">Đăng nhập</string>
+</resources>
